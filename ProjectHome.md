@@ -1,0 +1,1 @@
+This is the online repository of the Snypher Code ([www.snypher.com]) I can't grant licenses that I don't hold, but for all the code modified by the members of Snypher the license below applies.
